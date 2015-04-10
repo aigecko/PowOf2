@@ -1,5 +1,5 @@
 # PowOf2
-Deal with power of 2
+Use GCC builtins to deal with power of 2.
 ###inline bool isPowOf2(int x)
 x can be positive or negative. It will return whether abs(x) is a power number of 2.
 ###inline bool isPowOf2(long long int x)
